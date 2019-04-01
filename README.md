@@ -1,0 +1,2 @@
+# Fortimate
+Fortnite STW calculator
